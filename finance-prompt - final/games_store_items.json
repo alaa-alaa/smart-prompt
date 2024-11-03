@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Basketball",
+    "category": "Ball Games",
+    "price": 15.99,
+    "vat_rate": 0.05
+  },
+  {
+    "name": "Monopoly",
+    "category": "Board Games",
+    "price": 28.99,
+    "vat_rate": 0.08
+  },
+  {
+    "name": "Blocks",
+    "category": "Building Toys",
+    "price": 19.49,
+    "vat_rate": 0.03
+  },
+  {
+    "name": "Playing Instruments",
+    "category": "Music and Dance",
+    "price": 24.99,
+    "vat_rate": 0.07
+  },
+  {
+    "name": "Flashcards",
+    "category": "Learning Games",
+    "price": 3.99,
+    "vat_rate": 0.02
+  }
+]

@@ -1,0 +1,9 @@
+I plan to upgrade my home with new furniture and appliances every year, with a typical home improvement budget ranging from $4,000 to $9,000. Since my regular monthly income isn't enough to fully fund these upgrades, I’ve decided to take on freelance design work to bridge the gap. To manage my finances effectively, I want to develop a well-designed "Home Upgrade Savings" JavaScript application with the following key features:
+
+1.My starting balance should be at least 15% of the total savings goal.
+2.The savings goal must be set at a minimum of $2,500.
+3.I will choose a specific time frame to achieve the savings goal.
+4.The monthly freelance income growth rate should be between 2% and 12%.
+5.After I enter the details of my project, the program will calculate the monthly freelance income needed to meet my home improvement savings goal within the set time frame.
+
+

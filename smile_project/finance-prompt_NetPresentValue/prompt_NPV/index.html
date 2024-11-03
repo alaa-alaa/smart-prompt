@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NPV Calculator - Medical Equipment Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Medical Equipment Project NPV Calculator</h1>
+
+        <label for="initialInvestment">Initial Investment (Dinars):</label>
+        <input type="number" id="initialInvestment" placeholder="Enter initial investment">
+
+        <label for="cashFlow">Annual Cash Flow (Dinars):</label>
+        <input type="number" id="cashFlow" placeholder="Enter annual cash flow">
+
+        <label for="discountRate">Discount Rate (%):</label>
+        <input type="number" id="discountRate" placeholder="Enter discount rate">
+
+        <label for="years">Number of Years:</label>
+        <input type="number" id="years" placeholder="Enter number of years">
+
+        <button onclick="calculateNPV()">Calculate NPV</button>
+
+        <p id="result">NPV: </p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

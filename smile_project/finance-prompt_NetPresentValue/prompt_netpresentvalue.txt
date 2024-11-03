@@ -1,0 +1,27 @@
+A person is planning to start sale a medical equipment project that requires an initial investment of 200,000 dinars. The project is expected to generate equal annual cash flows of 52,000 dinars over the next 5 years. The discount rate for this project is 8%.
+To help assess the financial feasibility of the project, the person wants to build a Web page application with a graphical user interface (GUI). This application will calculate the net present value (NPV) of the project to determine if it is a good investment.
+Requirements:
+
+Create a Python program with a GUI that allows the user to input the following parameters:
+
+Initial investment amount (e.g., 200,000 dinars)
+Annual cash flow (e.g., 52,000 dinars)
+Discount rate (e.g., 8%)
+Number of years (e.g., 5 years)
+The GUI should have a button labeled "Calculate NPV." When clicked, the program should:
+
+Calculate the NPV using the formula:
+NPV=∑(cash flow/(1+discount rate)^t)−initial investment
+ 
+
+Where:
+
+cash flow = Annual cash flow amount
+discount rate = Discount rate (in decimal form)
+t = year (1, 2, 3, ... up to the number of years)
+initial investment = Initial investment amount
+Display the result (NPV value) on the GUI after the calculation.
+
+Ensure the NPV result is rounded to two decimal places.
+
+
